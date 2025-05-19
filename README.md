@@ -1,5 +1,5 @@
 # Droplet
-A quick Digital Ocean Debian 12 droplet creator. Will create the cheapest droplet available (`s-1vcpu-512mb-10gb` and within the `nyc1` region. You can modify these options if you so desire:
+A quick Digital Ocean Debian 12 droplet creator. Will create the cheapest droplet available (`s-1vcpu-512mb-10gb`) and within the `nyc1` region. You can modify these options if you so desire:
 
 ```python
 droplet_data = {
